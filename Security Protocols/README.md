@@ -24,3 +24,13 @@ In order to use security protocols effectively, it is also important to be able 
 - Common security protocols include SSL, TLS, and SSH.
 - Understanding how these protocols work and when to use them is important for effectively securing communication and data.
 - Being able to configure and use security protocols is also important for securing networks and communication.
+
+## Resources
+
+- [SSL/TLS - Wikipedia](https://en.wikipedia.org/wiki/Transport_Layer_Security)
+- [SSH - Wikipedia](https://en.wikipedia.org/wiki/Secure_Shell)
+- [How SSL/TLS Works - SSL.com](https://www.ssl.com/how-ssl-tls-works/)
+- [Understanding SSL/TLS: A Comprehensive Guide - Cloudflare](https://www.cloudflare.com/learning/ssl/what-is-ssl-tls/)
+- [How Does SSH Work? - Lifewire](https://www.lifewire.com/how-does-ssh-work-4169283)
+- [Understanding SSH: A Comprehensive Guide - Cloudflare](https://www.cloudflare.com/learning/ssh/what-is-ssh/)
+
