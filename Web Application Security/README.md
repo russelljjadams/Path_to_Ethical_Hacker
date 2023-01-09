@@ -35,3 +35,5 @@ As an Ethical Hacker, you will need to use a variety of tools and techniques to 
 ## Conclusion
 
 Web application security is an essential skill for any Ethical Hacker. By understanding common vulnerabilities and using the right tools and techniques, you can help keep web applications and their users safe from harm.
+
+
