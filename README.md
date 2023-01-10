@@ -1,3 +1,17 @@
+Table of Contents
+1. [Networking Concepts](#networking-concepts)
+2. [Security Protocols](#security-protocols)
+3. [Linux](#linux)
+4. [Cryptography](#cryptography)
+5. [Scanning and Enumeration](#scanning-and-enumeration)
+6. [Vulnerability Assessment](#vulnerability-assessment)
+7. [Malware](#malware)
+8. [Web Application Security](#web-application-security)
+9. [Wireless Security](#wireless-security)
+10. [Physical Security](#physical-security)
+11. [Penetration Testing](#penetration-testing)
+12. [Legal and Ethical Issues](#legal-and-ethical-issues)
+
 # Essential Skills for Ethical Hackers
 
 As an ethical hacker, it is important to have a strong foundation in a variety of topics and skills. Here are some key areas that you should be familiar with:
