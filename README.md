@@ -81,9 +81,7 @@ As an ethical hacker, it is important to have a strong foundation in a variety o
 
 - Understanding of the process of conducting a penetration test, including scope, methodology, and reporting
 - Familiarity with common penetration testing tools and techniques
-- Ability to conduct a thorough and ethical penetration test, following industry
-
-## Essential Skills for Ethical Hackers (cont.)
+- Ability to conduct a thorough and ethical penetration test, following industry standards.
 
 ## Legal and Ethical Issues
 
