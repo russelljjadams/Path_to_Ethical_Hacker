@@ -36,4 +36,4 @@ When implementing physical security measures, it is important to consider the fo
 Physical security is an important aspect of protecting a building, location, or property from unauthorized access and potential harm. By implementing a combination of physical security measures, regularly reviewing and updating them, and training employees, a more secure environment can be created.
 
 ## Resources
-
+TODO
