@@ -25,11 +25,10 @@ As an ethical hacker, it is important to have a strong understanding of networki
 ## Network Security Measures
 
 - Familiarize yourself with common network security measures, including:
- 
-- Firewalls
-- Virtual Private Networks (VPNs)
-- Intrusion Detection and Prevention Systems (IDPS)
-- Network Access Control (NAC)
+  - Firewalls
+  - Virtual Private Networks (VPNs)
+  - Intrusion Detection and Prevention Systems (IDPS)
+  - Network Access Control (NAC)
 
 ## Further Reading
 
