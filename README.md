@@ -100,4 +100,3 @@ As an ethical hacker, it is important to have a strong foundation in a variety o
 - Commitment to staying up-to-date with the latest developments in the field of ethical hacking
 - Willingness to learn new technologies and techniques as needed
 - Ability to adapt to changing threats and challenges in the cybersecurity landscape.
--
